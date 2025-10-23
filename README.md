@@ -1,2 +1,2 @@
-# alura-plus-mais
-coisa de fronen ai dos aluras
+# alura + mais -
+fazendo os  aluras da muiezinha falando coisas
